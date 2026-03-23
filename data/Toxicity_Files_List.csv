@@ -1,0 +1,20 @@
+File_Name,Toxicity_Type
+Cardiotoxicity_Cardiotoxicity-1.csv,Cardiotoxicity
+Cardiotoxicity_Cardiotoxicity-5.csv,Cardiotoxicity
+Cardiotoxicity_Cardiotoxicity-10.csv,Cardiotoxicity
+Cardiotoxicity_Cardiotoxicity-30.csv,Cardiotoxicity
+Endocrine Disruption_NR-AhR.csv,Endocrine Disruption
+Endocrine Disruption_NR-AR.csv,Endocrine Disruption
+Endocrine Disruption_NR-AR-LBD.csv,Endocrine Disruption
+Endocrine Disruption_NR-aromatase.csv,Endocrine Disruption
+Endocrine Disruption_NR-ER.csv,Endocrine Disruption
+Endocrine Disruption_NR-ER-LBD.csv,Endocrine Disruption
+Endocrine Disruption_NR-PPAR-gamma.csv,Endocrine Disruption
+Endocrine Disruption_SR-ARE.csv,Endocrine Disruption
+Endocrine Disruption_SR-ATAD5.csv,Endocrine Disruption
+Endocrine Disruption_SR-HSE.csv,Endocrine Disruption
+Endocrine Disruption_SR-MMP.csv,Endocrine Disruption
+Endocrine Disruption_SR-p53.csv,Endocrine Disruption
+Hepatotoxicity_Hepatotoxicity.csv,Hepatotoxicity
+Mutagenicity_Ames Mutagenicity.csv,Mutagenicity
+Respiratory Toxicity_Respiratory Toxicity.csv,Respiratory Toxicity
